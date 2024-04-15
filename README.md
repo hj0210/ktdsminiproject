@@ -10,15 +10,14 @@
 
 ## 2. 소스 스테이지 추가
 
-![image](https://github.com/hj0210/ktdsminiproject/assets/68845747/d854aab7-2259-417e-8929-b8dbacf32257)
-
-- 나의 github id를 넣으면 새 연결이 생성이 된다.
-
 ![image](https://github.com/hj0210/ktdsminiproject/assets/68845747/c28a2b17-789d-47b0-ab9b-101268f29a59)
 
 - 연결준비완료 확인
 - 나의 HEAD를 복제 > 즉 main 브랜치에 푸쉬되면 감지한다
+- 
+![image](https://github.com/hj0210/ktdsminiproject/assets/68845747/d854aab7-2259-417e-8929-b8dbacf32257)
 
+- 나의 github id를 넣으면 새 연결이 생성이 된다.
 
 ## 3. 빌드 스테이지 추가
 
